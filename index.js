@@ -2,7 +2,7 @@ const { Client } = require("discord.js");
 const Discord = require('discord.js');
 const client = new Client({
 });
-const TOKEN = "NzY2MzQ2MzA1ODM2MTU0OTYx.X4iBnQ.cIn6gipf_xNCh6myZu04sP-oI88"
+const TOKEN = "Your Token Here"
 const config = {
 "prefix" : "/",
 "dmMessage" : "Wizzed by rnbw",
