@@ -4,7 +4,7 @@ const client = new Client({
 });
 const TOKEN = "Your Token Here"
 const config = {
-"prefix" : "/",
+"prefix" : "prefix",
 "dmMessage" : "Wizzed by rnbw",
 "serverName" : "Wizzed by rnbw",
 "iconURL" : "https://cdn.discordapp.com/avatars/766140799167365122/e012f6aec2079770eb2ac34d381085a7.png?size=128",
